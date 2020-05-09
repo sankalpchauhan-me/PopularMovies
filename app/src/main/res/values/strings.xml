@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="connection_error">Not Connected To Internet</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="sampleYear">2015</string>
+    <string name="sampleRating">8.1/10</string>
+    <string name="sampleOverview">This is a test description</string>
+    <string name="sort_by_most_popular">Sort By: Most Popular</string>
+    <string name="sort_by_highest_rated">Sort By: Highest Rated</string>
+    <string name="no_image_availaible">No Image Available</string>
+    <string name="movie_detail">MovieDetail</string>
+    <string name="an_error_occured_please_try_again">An error occured. Please Try Again</string>
+    <string name="retry">Retry</string>
+    <string name="sampleTextLarge">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean maximus turpis vitae justo condimentum auctor. Fusce pretium mi eu dignissim sagittis. Donec quis ultricies nibh. Fusce sit amet placerat nisl. Nullam vel elit a magna fringilla dapibus vitae ut metus. Proin nec placerat justo.</string>
+    <string name="unmark_favorite">Unmark Favorite</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="trailer_unavailaible">No Video Trailer Available</string>
+    <string name="please_check_network_connection">Please Check Internet Connection</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="no_movies_favorite">No Movies Marked Favorite</string>
+    <string name="trailer_1">Trailer 1</string>
+    <string name="click_to_expand">(Click To Expand)</string>
+    <string name="author_name_sample">Author Name</string>
+    <string name="reviews_text">Reviews:</string>
+    <string name="trailers_text">Trailers:</string>
+    <string name="mark_as_favorite">Mark As   Favorite</string>
+    <string name="language_en_sample">Language: en</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="share">Share</string>
+    <string name="favorites">Favorites</string>
+    <string name="movie_backdrop">Movie Backdrop</string>
+</resources>

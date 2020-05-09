@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gallery_columns">2</integer>
+    <dimen name="banner_layout_height">150dp</dimen>
+    <dimen name="placeholder_margin">30dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="image_width">200dp</dimen>
+    <dimen name="detail_relative_layout_margin">20dp</dimen>
+    <dimen name="progress_bar_margin">20dp</dimen>
+    <dimen name="linear_layout_margin">30dp</dimen>
+    <dimen name="margin_top_rating">10dp</dimen>
+    <dimen name="overview_margin">20dp</dimen>
+    <dimen name="progress_bar_size">100dp</dimen>
+    <dimen name="play_button_size">80dp</dimen>
+    <dimen name="review_content_margin">2dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+</resources>
